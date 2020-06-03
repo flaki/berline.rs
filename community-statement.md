@@ -47,12 +47,13 @@ It also links to and cooperates with many more local initiatives.
 
 The undersigned:
 
-The Rust Berlin Organisers team, namely:
+The Rust Berlin Organisers team & other contributors:
 * Florian Gilcher (Rust Berlin, RustFest, Rust Community, Rust Core)
 * Marisa H. (Rust Berlin, RustBridge, Rustlings)
 * Ryan Levick (Rust Berlin)
 * Jan-Erik Rediger (Rust Berlin, RustFest, Rust Community)
 * Bastian Gruber (Rust Berlin)
+* István Sz. (Rust Community, Rust Hungary, Rust Tallinn)
 
 
 If you want to sign this statement, as an organisation or as an indivdual,
